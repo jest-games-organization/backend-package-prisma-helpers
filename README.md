@@ -1,3 +1,3 @@
 # Backend Package Prisma Helpers
 
-This package provides Prisma helper methods and types for shared functionality.
+This Jest Games Organization backend package provides Prisma specific helper methods for shared functionality.
